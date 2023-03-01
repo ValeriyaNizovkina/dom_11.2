@@ -13,3 +13,6 @@ def title(text):
     """
     return text.title()
 
+print(upper('привести к верхнему регистру'))
+print(title('привести первую букву к верхнему регистру'))
+
